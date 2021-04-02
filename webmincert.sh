@@ -2,7 +2,7 @@
 #########################################################################
 # Plesk LetsEncrypt Certificate - copy to Webmin                        #
 # Powie . www.powie.de                                                  #
-# V1.04                                                                 #
+# V1.06                                                                 #
 # For Plesk / Debian                                                    #
 ######################################################################### 
 # first we define our common hostname as uses by our plesk host and cert!
