@@ -10,8 +10,8 @@ WARNING! This is experimental and only tested on Debian Systems at this time. Ma
 Supported:
 
 - Plesk 12.5 - Plesk 18 Obsidian
-- Debian
-- Webmin
+- Debian 8-10
+- Webmin - Latest - https://www.webmin.com/
 
 Usage:
 - Install the LetsEncrypt Plesk Extension
